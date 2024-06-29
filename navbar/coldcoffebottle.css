@@ -34,6 +34,8 @@ body {
     font-size: 0.90rem;
     text-align: center;
     z-index: 0;
+    position: fixed;
+    top:0;
 }
 
 header nav {
@@ -147,7 +149,7 @@ header nav .nav-icons ul li {
 
 
 .banner-div {
-    margin-top: 100px;
+    margin-top: 130px;
     height: 270px;
     width: 100%;
     background-image: url('https://www.kingscoffeeindia.co.in/cdn/shop/files/newsletter.png?v=1655801945');
@@ -198,6 +200,20 @@ header nav .nav-icons ul li {
     justify-content: space-between;
     opacity: 0;
     transition-duration: 400ms;
+    a{
+
+        text-decoration: none;
+        color:black;
+    }
+}
+.items-container .box{
+    a{
+        text-decoration: none;
+        color:black
+    }
+    a:hover{
+        color: #833d1a;
+    }
 }
 .items-container .box:hover .icons-div{
     opacity: 1;
