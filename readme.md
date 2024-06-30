@@ -3,14 +3,14 @@
 ## 🏆 Meet the Team
 Our talented team is passionate about delivering a top-notch platform for coffee enthusiasts. Each member has brought unique skills and perspectives to create a comprehensive and engaging site.
 
-## This is the project 👇
+## This is the project link click this King coffee logo 👇
 [![N|Kings-Coffee](https://neon-gnome-fd0acc.netlify.app/king_coffee-projects-assets/Kings_Logo_1.webp)](https://neon-gnome-fd0acc.netlify.app/)
 
 ## 👤 Team Leader: Banti
  Banti has been instrumental in leading the team and ensuring that the core pages of KINGS COFFEE are robust and user-friendly. Banti's work includes:
 
--  [Navbar Section (Loading Page)](https://neon-gnome-fd0acc.netlify.app/)
--  [Home Section (Loading Page)](https://neon-gnome-fd0acc.netlify.app/)
+-  [Navbar Section (Landing page)](https://neon-gnome-fd0acc.netlify.app/)
+-  [Home Section (Landing page)](https://neon-gnome-fd0acc.netlify.app/)
 -  [Cold Coffee Can (Navbar & Footer)](https://neon-gnome-fd0acc.netlify.app/cold-coffee-can)
 -  [Pour Over Bottle (Navbar & Footer)](https://neon-gnome-fd0acc.netlify.app/pour-over-coffee)
 -  [Bakig Essence (Navbar & Footer)](https://neon-gnome-fd0acc.netlify.app/baking-essence)
@@ -22,15 +22,15 @@ Our talented team is passionate about delivering a top-notch platform for coffee
 
 
 ## 👨‍🎨 Team Member: Vishal    
-- [Tranding Section (Loading page)](https://neon-gnome-fd0acc.netlify.app/)
+- [Trending Section (Landing page)](https://neon-gnome-fd0acc.netlify.app/)
 - [Cold Coffee Bottle (Navbar)](https://neon-gnome-fd0acc.netlify.app/navbar/coldcoffebottle)
-- [Our Story (Navbar , Loading page , Footer)](https://neon-gnome-fd0acc.netlify.app/navbar/ourstory)
+- [Our Story (Navbar , Landing page , Footer)](https://neon-gnome-fd0acc.netlify.app/navbar/ourstory)
 - [Contact Us page(Footer)](https://neon-gnome-fd0acc.netlify.app/footer/contactus)
 - [Media page(Footer)](https://neon-gnome-fd0acc.netlify.app/footer/media)
 
 
 ## 👩‍💻 Team Member: Ruchi
-- [Shop, Testimonials and Featured In Section (Loading page)](https://neon-gnome-fd0acc.netlify.app/)
+- [Shop, Testimonials and Featured In Section (Landing page)](https://neon-gnome-fd0acc.netlify.app/)
 - [Explore(Navbar)](https://neon-gnome-fd0acc.netlify.app/footer/retail)
 - [Retail page (Navbar)](https://neon-gnome-fd0acc.netlify.app/footer/retail)
 - [FAQs page (Navbar)](https://neon-gnome-fd0acc.netlify.app/footer/faq)
