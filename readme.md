@@ -1,4 +1,4 @@
-#☕ KINGS COFFEE
+# ☕ KINGS COFFEE
 - Welcome to KINGS COFFEE! Our project aims to create an immersive and user-friendly platform dedicated to coffee lovers worldwide. This site provides a delightful blend of storytelling, easy navigation, and comprehensive functionality, making every visit a memorable experience.
 ## 🏆 Meet the Team
 Our talented team is passionate about delivering a top-notch platform for coffee enthusiasts. Each member has brought unique skills and perspectives to create a comprehensive and engaging site.
